@@ -2,6 +2,10 @@
 
 Jerzy is a JavaScript statistics library
 
+----------------------------------------
+
+A fork from Jerzy, mainly optimized the two sample ks-test's speed
+
 ## Install
 
 ```
